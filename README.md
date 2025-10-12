@@ -50,43 +50,26 @@ Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Persp
 
 ---
 
-✅ Bereits gemeisterte Themen:
+### [cite_start]🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) [cite: 7]
 
-Grundlagen: Wirtschafts- und Geschäftsprozesse, Arbeitsrecht, Netzwerk- und Hardwaregrundlagen.
+Ich befinde mich aktuell in einer intensiven Umschulung, die ein breites Spektrum moderner Technologien abdeckt.
 
+* **✅ Bereits gemeistert:**
+    * [cite_start]Wirtschafts- & Geschäftsprozesse [cite: 18]
+    * [cite_start]Grundlagen relationaler Datenbanken & SQL [cite: 18]
+    * [cite_start]Agiles Projektmanagement mit Scrum [cite: 18]
 
-Datenbanken: Relationale Datenbanken und SQL-Abfragen.
+* **👨‍💻 Aktueller Fokus (Oktober 2025):**
+    * [cite_start]Frontend-Entwicklung: Fortgeschrittene Programmierung in **HTML5, JavaScript & CSS3** [cite: 18]
 
+* **🚀 Das kommt als Nächstes:**
+    * [cite_start]**Frontend:** React [cite: 18]
+    * [cite_start]**Backend:** Java (mit OCFA-Zert.), Python (mit Associate-Zert.), PHP [cite: 18]
+    * [cite_start]**Cloud:** AWS Cloud Practitioner (mit Zertifizierung) [cite: 18]
+    * [cite_start]**KI:** Einführung & praktisches KI-Projekt [cite: 18]
+    * [cite_start]**Praxis:** Mehrmonatiges Praktikum (ab Okt. 2026) [cite: 18]
 
-Projektmanagement: Agiles Projektmanagement mit Scrum.
-
-👨‍💻 Aktueller Fokus (Oktober 2025):
-
-Frontend-Entwicklung: Fortgeschrittene Programmierung in HTML5, JavaScript und CSS3.
-
-🚀 Ausblick: Diese Technologien lerne ich als Nächstes:
-
-Frontend-Frameworks: React 
-
-
-Programmierparadigmen: Objektorientierte Programmierung (OOP) und UML 
-
-
-Backend-Sprachen: Java (inkl. OCFA-Zertifizierung) und Python (inkl. Associate-Zertifizierung) 
-
-
-Cloud-Technologien: AWS Cloud Practitioner (inkl. Zertifizierung) und Grundlagen des Cloud-Computing 
-
-
-Web-Entwicklung: Objektorientierte Programmierung mit PHP und WordPress 
-
-
-Künstliche Intelligenz: Einführung in die KI und Umsetzung eines praktischen KI-Projekts 
-
-
-Systemadministration: Windows Server Grundlagen 
-
-Den Abschluss meiner Umschulung bildet ein mehrmonatiges Praktikum ab Oktober 2026, in dem ich mein erlerntes Wissen in einem realen Unternehmensumfeld anwenden werde.
+---
 
 
 
