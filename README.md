@@ -50,5 +50,43 @@ Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Persp
 
 ---
 
+✅ Bereits gemeisterte Themen:
+
+Grundlagen: Wirtschafts- und Geschäftsprozesse, Arbeitsrecht, Netzwerk- und Hardwaregrundlagen.
+
+
+Datenbanken: Relationale Datenbanken und SQL-Abfragen.
+
+
+Projektmanagement: Agiles Projektmanagement mit Scrum.
+
+👨‍💻 Aktueller Fokus (Oktober 2025):
+
+Frontend-Entwicklung: Fortgeschrittene Programmierung in HTML5, JavaScript und CSS3.
+
+🚀 Ausblick: Diese Technologien lerne ich als Nächstes:
+
+Frontend-Frameworks: React 
+
+
+Programmierparadigmen: Objektorientierte Programmierung (OOP) und UML 
+
+
+Backend-Sprachen: Java (inkl. OCFA-Zertifizierung) und Python (inkl. Associate-Zertifizierung) 
+
+
+Cloud-Technologien: AWS Cloud Practitioner (inkl. Zertifizierung) und Grundlagen des Cloud-Computing 
+
+
+Web-Entwicklung: Objektorientierte Programmierung mit PHP und WordPress 
+
+
+Künstliche Intelligenz: Einführung in die KI und Umsetzung eines praktischen KI-Projekts 
+
+
+Systemadministration: Windows Server Grundlagen 
+
+Den Abschluss meiner Umschulung bildet ein mehrmonatiges Praktikum ab Oktober 2026, in dem ich mein erlerntes Wissen in einem realen Unternehmensumfeld anwenden werde.
+
 
 
