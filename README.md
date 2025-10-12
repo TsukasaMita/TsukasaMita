@@ -1,7 +1,7 @@
 # Hi, ich bin Tsukasa 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dein-username/dein-username/main/dein-banner-bild.png" alt="Persönliches Banner">
+  <img src="https://github.com/TsukasaMita/TsukasaMita/blob/main/banner.png" alt="Persönliches Banner">
 </p>
 
 Willkommen auf meinem Profil! Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer ungewöhnlichen Reise und einer großen Leidenschaft für Automatisierung, KI und Cybersecurity.
@@ -55,19 +55,19 @@ Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Persp
 Ich befinde mich aktuell in einer intensiven Umschulung, die ein breites Spektrum moderner Technologien abdeckt.
 
 * **✅ Bereits gemeistert:**
-    * [cite_start]Wirtschafts- & Geschäftsprozesse [cite: 18]
-    * [cite_start]Grundlagen relationaler Datenbanken & SQL [cite: 18]
-    * [cite_start]Agiles Projektmanagement mit Scrum [cite: 18]
+    * [cite_start]Wirtschafts- & Geschäftsprozesse 
+    * [cite_start]Grundlagen relationaler Datenbanken & SQL 
+    * [cite_start]Agiles Projektmanagement mit Scrum 
 
 * **👨‍💻 Aktueller Fokus (Oktober 2025):**
-    * [cite_start]Frontend-Entwicklung: Fortgeschrittene Programmierung in **HTML5, JavaScript & CSS3** [cite: 18]
+    * Frontend-Entwicklung: Fortgeschrittene Programmierung in **HTML5, JavaScript & CSS3** 
 
 * **🚀 Das kommt als Nächstes:**
-    * [cite_start]**Frontend:** React [cite: 18]
-    * [cite_start]**Backend:** Java (mit OCFA-Zert.), Python (mit Associate-Zert.), PHP [cite: 18]
-    * [cite_start]**Cloud:** AWS Cloud Practitioner (mit Zertifizierung) [cite: 18]
-    * [cite_start]**KI:** Einführung & praktisches KI-Projekt [cite: 18]
-    * [cite_start]**Praxis:** Mehrmonatiges Praktikum (ab Okt. 2026) [cite: 18]
+    * **Frontend:** React [cite: 18]
+    * **Backend:** Java (mit OCFA-Zert.), Python (mit Associate-Zert.), PHP 
+    * **Cloud:** AWS Cloud Practitioner (mit Zertifizierung) 
+    * **KI:** Einführung & praktisches KI-Projekt 
+    * **Praxis:** Mehrmonatiges Praktikum (ab Okt. 2026) 
 
 ---
 
