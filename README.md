@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, ich bin Tsukasa 👋
 
-<!--
-**TsukasaMita/TsukasaMita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dein-username/dein-username/main/dein-banner-bild.png" alt="Persönliches Banner">
+</p>
 
-Here are some ideas to get you started:
+Willkommen auf meinem Profil! Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer ungewöhnlichen Reise und einer großen Leidenschaft für Automatisierung, KI und Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Über Mich
+
+Mein Weg in die Tech-Welt war nicht geradlinig, aber jede Station hat meine Fähigkeiten geschärft:
+
+* **🔧 Feinwerkmechaniker:** Hier habe ich gelernt, was Präzision, logisches Denken und das Lösen komplexer Probleme bedeutet. Meine ersten Programmiererfahrungen an CNC-Maschinen haben meine Faszination für Code geweckt.
+* **🚚 Schichtleiter & Social Media Manager:** In diesen Rollen habe ich gelernt, Teams zu leiten, Prozesse zu optimieren und direkt auf die Bedürfnisse von Nutzern und Kunden einzugehen – Skills, die mir heute beim Entwickeln helfen.
+* **🚀 Umschüler zum Anwendungsentwickler:** Jetzt bündle ich all diese Erfahrungen, um meine eigentliche Leidenschaft zu verfolgen: das Erstellen sauberer, effizienter und sicherer Software.
+
+Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Perspektive auf die Softwareentwicklung gibt. Ich baue nicht nur Features, ich löse Probleme.
+
+---
+
+### 🛠️ Mein Tech-Stack & Interessen
+
+**Aktuell lerne und arbeite ich mit:**
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+</p>
+
+**Meine besonderen Interessen gelten:**
+
+* **🤖 KI & Automatisierung:** Ich liebe es, mit Tools wie **n8n** Prozesse zu automatisieren.
+* **🔒 Cybersecurity:** Ich beschäftige mich aktiv mit den Grundlagen der IT-Sicherheit.
+* **☁️ Cloud-Technologien:** Ich bin gespannt darauf, mehr über AWS, Docker und Co. zu lernen.
+
+---
+
+
+
