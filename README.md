@@ -50,7 +50,7 @@ Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Persp
 
 ---
 
-### [cite_start]🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) [cite: 7]
+###🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) 
 
 Ich befinde mich aktuell in einer intensiven Umschulung, die ein breites Spektrum moderner Technologien abdeckt.
 
