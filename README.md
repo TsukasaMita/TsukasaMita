@@ -50,14 +50,14 @@ Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Persp
 
 ---
 
-###🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) 
+### 🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) 
 
 Ich befinde mich aktuell in einer intensiven Umschulung, die ein breites Spektrum moderner Technologien abdeckt.
 
 * **✅ Bereits gemeistert:**
-    * [cite_start]Wirtschafts- & Geschäftsprozesse 
-    * [cite_start]Grundlagen relationaler Datenbanken & SQL 
-    * [cite_start]Agiles Projektmanagement mit Scrum 
+    * Wirtschafts- & Geschäftsprozesse 
+    * Grundlagen relationaler Datenbanken & SQL 
+    * Agiles Projektmanagement mit Scrum 
 
 * **👨‍💻 Aktueller Fokus (Oktober 2025):**
     * Frontend-Entwicklung: Fortgeschrittene Programmierung in **HTML5, JavaScript & CSS3** 
