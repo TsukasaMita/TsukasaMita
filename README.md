@@ -1,9 +1,5 @@
 # Hi, ich bin Tsukasa 👋
 
-<p align="center">
-  <img src="https://github.com/TsukasaMita/TsukasaMita/blob/main/banner.png" alt="Persönliches Banner">
-</p>
-
 Willkommen auf meinem Profil! Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer ungewöhnlichen Reise und einer großen Leidenschaft für Automatisierung, KI und Cybersecurity.
 
 ---
