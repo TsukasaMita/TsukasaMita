@@ -2,7 +2,7 @@
 
 > **Präzision trifft Code.**
 
-Ich bin Softwareentwickler aus **Hamburg, Deutschland** 🇩🇪.
+Ich bin ein angehender Softwareentwickler aus **Hamburg, Deutschland**.
 
 ## 👨‍💻 Über mich
 
