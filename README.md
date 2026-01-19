@@ -1,71 +1,69 @@
-# Hi, ich bin Tsukasa 👋
+# Hi there, I'm Tsukasa Mita! 👋
 
-Willkommen auf meinem Profil! Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer ungewöhnlichen Reise und einer großen Leidenschaft für Automatisierung, KI und Cybersecurity.
+> **Präzision trifft Code.**
 
----
+I am a software developer based in **Hamburg, Germany** 🇩🇪.
 
-### 👨‍💻 Über Mich
+## 👨‍💻 About Me
 
-Mein Weg in die Tech-Welt war nicht geradlinig, aber jede Station hat meine Fähigkeiten geschärft:
-
-* **🔧 Feinwerkmechaniker:** Hier habe ich gelernt, was Präzision, logisches Denken und das Lösen komplexer Probleme bedeutet. Meine ersten Programmiererfahrungen an CNC-Maschinen haben meine Faszination für Code geweckt.
-* **🚚 Schichtleiter & Social Media Manager:** In diesen Rollen habe ich gelernt, Teams zu leiten, Prozesse zu optimieren und direkt auf die Bedürfnisse von Nutzern und Kunden einzugehen – Skills, die mir heute beim Entwickeln helfen.
-* **🚀 Umschüler zum Anwendungsentwickler:** Jetzt bündle ich all diese Erfahrungen, um meine eigentliche Leidenschaft zu verfolgen: das Erstellen sauberer, effizienter und sicherer Software.
-
-Ich bin davon überzeugt, dass mein breiter Horizont mir eine einzigartige Perspektive auf die Softwareentwicklung gibt. Ich baue nicht nur Features, ich löse Probleme.
+Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verständnis und physikalische Logik mit moderner Webentwicklung (JavaScript, SQL, Automation). Spezialisiert auf effiziente Lösungen und IT-Sicherheit.
 
 ---
 
-### 🛠️ Mein Tech-Stack & Interessen
+## 🛠 Tech Stack
 
-**Aktuell lerne und arbeite ich mit:**
+### Frontend Development
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-</p>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Meine besonderen Interessen gelten:**
+### Backend & Database
 
-* **🤖 KI & Automatisierung:** Ich liebe es, mit Tools wie **n8n** Prozesse zu automatisieren.
-* **🔒 Cybersecurity:** Ich beschäftige mich aktiv mit den Grundlagen der IT-Sicherheit.
-* **☁️ Cloud-Technologien:** Ich bin gespannt darauf, mehr über AWS, Docker und Co. zu lernen.
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automation & Tools
+
+![n8n](https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🎓 Mein Weg zum Fachinformatiker (Umschulung 06/2025 - 06/2027) 
+## 🚀 Key Projects
 
-Ich befinde mich aktuell in einer intensiven Umschulung, die ein breites Spektrum moderner Technologien abdeckt.
-
-* **✅ Bereits gemeistert:**
-    * Wirtschafts- & Geschäftsprozesse 
-    * Grundlagen relationaler Datenbanken & SQL 
-    * Agiles Projektmanagement mit Scrum 
-
-* **👨‍💻 Aktueller Fokus (Oktober 2025):**
-    * Frontend-Entwicklung: Fortgeschrittene Programmierung in **HTML5, JavaScript & CSS3** 
-
-* **🚀 Das kommt als Nächstes:**
-    * **Frontend:** React [cite: 18]
-    * **Backend:** Java (mit OCFA-Zert.), Python (mit Associate-Zert.), PHP 
-    * **Cloud:** AWS Cloud Practitioner (mit Zertifizierung) 
-    * **KI:** Einführung & praktisches KI-Projekt 
-    * **Praxis:** Mehrmonatiges Praktikum (ab Okt. 2026) 
+| Project                                                               | Description                                                               | Tech Stack                |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------- |
+| **[Simon Says Game](https://tsukasamita.github.io/Simon-Says-Game/)** | Ein spannendes Simon Says Spiel.                                          | JavaScript, HTML, CSS     |
+| **Briefing Generator**                                                | Automatisierte Akquise-Briefings mit n8n für effizientere Sales-Prozesse. | n8n, Webhook, API         |
+| **[Nota](https://nota.tsukasa-mita.de)**                              | Eine CRUD App mit Authentication und Backend.                             | React, Supabase, Tailwind |
 
 ---
 
+## 💼 Experience
 
+- **Fachinformatiker Anwendungsentwicklung (IHK)** @ College Berufliche Weiterbildung _(06/2025 – Present)_
+- **Social Media Manager** @ DSC Demand Hamburg GmbH _(09/2023 – Present)_
+- **Schichtleiter** @ Picnic GmbH _(01/2024 – 01/2025)_
+- **Ausbildung zum Feinwerkmechaniker** @ Universität Hamburg _(08/2016 – 01/2020)_
 
+---
+
+## 📈 GitHub Stats
+
+![Tsukasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsukasaMita&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukasaMita&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsukasa-mita-803255226)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tsukasa-mita.de)
