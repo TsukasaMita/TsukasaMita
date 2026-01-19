@@ -1,4 +1,4 @@
-# Hallo, ich bin Tsukasa Mita! 👋
+# Hallo, ich bin Tsukasa! 👋
 
 > **Präzision trifft Code.**
 
