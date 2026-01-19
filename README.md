@@ -1,10 +1,10 @@
-# Hi there, I'm Tsukasa Mita! 👋
+# Hallo, ich bin Tsukasa Mita! 👋
 
 > **Präzision trifft Code.**
 
-I am a software developer based in **Hamburg, Germany** 🇩🇪.
+Ich bin Softwareentwickler aus **Hamburg, Deutschland** 🇩🇪.
 
-## 👨‍💻 About Me
+## 👨‍💻 Über mich
 
 Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verständnis und physikalische Logik mit moderner Webentwicklung (JavaScript, SQL, Automation). Spezialisiert auf effiziente Lösungen und IT-Sicherheit.
 
@@ -12,7 +12,7 @@ Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verstän
 
 ## 🛠 Tech Stack
 
-### Frontend Development
+### Frontend Entwicklung
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,14 +21,14 @@ Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verstän
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database
+### Backend & Datenbanken
 
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Automation & Tools
+### Automatisierung & Tools
 
 ![n8n](https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -37,9 +37,9 @@ Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verstän
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Ausgewählte Projekte
 
-| Project                                                               | Description                                                               | Tech Stack                |
+| Projekt                                                               | Beschreibung                                                              | Tech Stack                |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------- |
 | **[Simon Says Game](https://tsukasamita.github.io/Simon-Says-Game/)** | Ein spannendes Simon Says Spiel.                                          | JavaScript, HTML, CSS     |
 | **Briefing Generator**                                                | Automatisierte Akquise-Briefings mit n8n für effizientere Sales-Prozesse. | n8n, Webhook, API         |
@@ -47,23 +47,21 @@ Vom Feinwerkmechaniker zum Softwareentwickler. Ich verbinde technisches Verstän
 
 ---
 
-## 💼 Experience
+## 💼 Berufserfahrung
 
-- **Fachinformatiker Anwendungsentwicklung (IHK)** @ College Berufliche Weiterbildung _(06/2025 – Present)_
-- **Social Media Manager** @ DSC Demand Hamburg GmbH _(09/2023 – Present)_
+- **Fachinformatiker Anwendungsentwicklung (IHK)** @ College Berufliche Weiterbildung _(06/2025 – Heute)_
+- **Social Media Manager** @ DSC Demand Hamburg GmbH _(09/2023 – Heute)_
 - **Schichtleiter** @ Picnic GmbH _(01/2024 – 01/2025)_
 - **Ausbildung zum Feinwerkmechaniker** @ Universität Hamburg _(08/2016 – 01/2020)_
 
 ---
 
-## 📈 GitHub Stats
-
-![Tsukasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsukasaMita&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukasaMita&layout=compact&theme=radical)
+## 📈 GitHub Statistiken
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsukasaMita&layout=compact&theme=radical&locale=de)
 
 ---
 
-## 📫 Connect with Me
+## 📫 Kontakt
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsukasa-mita-803255226)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tsukasa-mita.de)
